@@ -1,4 +1,4 @@
-# HTML
+# 1.1 - HTML Workshop
 
 Before you dive into the workshop, be sure to have read the provided HTML-reference doc.
 
