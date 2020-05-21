@@ -9,9 +9,9 @@ _Don't worry about styling and alignment at this point, we'll worry about that w
 ```html
 <!DOCTYPE html>
 <html>
-   <body>
-      ...
-   </body>
+  <body>
+    ...
+  </body>
 </html>
 ```
 
@@ -19,29 +19,26 @@ _Don't worry about styling and alignment at this point, we'll worry about that w
 
 _Questions located in the exercise folder_
 
-
 ## Exercise 2
 
 1. Open the provided `index.html` file in the browser.
 2. Modify it to match the following image
 
-![exercise-2 goal](./assets/ex-2-goal.png)
-
+![exercise-2 goal](./__lecture/assets/ex-2-goal.png)
 
 ## Exercise 3
 
 Write an HTML page that matches the screenshot provided.
 
-![exercise-3 goal](./assets/ex-3-goal.png)
+![exercise-3 goal](./__lecture/assets/ex-3-goal.png)
 
 Your file should have this structure:
-
 
 ## Exercise 4
 
 Write an HTML page that matches the following:
 
-![exercise-4 goal](./assets/ex-4-goal.png)
+![exercise-4 goal](./__lecture/assets/ex-4-goal.png)
 
 If you did not find the previous exercise easy, start from scratch.
 
@@ -49,7 +46,7 @@ If you did not find the previous exercise easy, start from scratch.
 
 Update the HTML code to match the following:
 
-![exercise-5 goal](./assets/ex-5-goal.png)
+![exercise-5 goal](./__lecture/assets/ex-5-goal.png)
 
 TIOBE Index link: https://www.tiobe.com/tiobe-index/
 
@@ -59,16 +56,15 @@ Use `target="_blank"` on the `<a>` tag to open the link in a new tab
 
 Fix the HTML code so it renders correctly:
 
-![exercise-6 goal](./assets/ex-6-goal.png)
+![exercise-6 goal](./__lecture/assets/ex-6-goal.png)
 
 ## Exercise 7
 
 Create an HTML file so it matches the screenshot provided:
 
-![exercise-7 goal](./assets/ex-7-goal.png)
+![exercise-7 goal](./__lecture/assets/ex-7-goal.png)
 
 Hint: use the `<table>` element
-
 
 Use `target="_blank"` on the `<a>` tags to open the links in a new tab
 
@@ -83,7 +79,7 @@ Links
 
 Update the HTML file so it matches the gif provided:
 
-![exercise-8 goal](./assets/ex-8-goal.gif)
+![exercise-8 goal](./__lecture/assets/ex-8-goal.gif)
 
 ### Hints
 
