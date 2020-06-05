@@ -75,6 +75,12 @@ Links
 - https://en.wikipedia.org/wiki/China
 - https://en.wikipedia.org/wiki/Japan
 
+---
+
+<center>🟡 - Minimally complete workshop (75%) - 🟡</center>
+
+---
+
 ## Exercise 8
 
 Update the HTML file so it matches the gif provided:
@@ -88,3 +94,9 @@ Update the HTML file so it matches the gif provided:
 - Make all input elements before the **Extras** section required with the required attribute
 - `<input type="text" required />`
 - Use the `<select>` tag for the pickup list
+
+---
+
+<center>🟢 - Complete workshop (100%) - 🟢</center>
+
+---
