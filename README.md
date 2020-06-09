@@ -83,9 +83,9 @@ Links
 
 ## Exercise 8
 
-Update the HTML file so it matches the gif provided:
+Update the HTML file so it matches the provided image:
 
-![exercise-8 goal](./__lecture/assets/ex-8-goal.gif)
+![exercise-8 goal](./__lecture/assets/ex-8-goal.png)
 
 ### Hints
 
@@ -94,6 +94,7 @@ Update the HTML file so it matches the gif provided:
 - Make all input elements before the **Extras** section required with the required attribute
 - `<input type="text" required />`
 - Use the `<select>` tag for the pickup list
+- Try to make sure your form is accessibility-friendly.
 
 ---
 
