@@ -32,8 +32,6 @@ Write an HTML page that matches the screenshot provided.
 
 ![exercise-3 goal](./__lecture/assets/ex-3-goal.png)
 
-Your file should have this structure:
-
 ## Exercise 4
 
 Write an HTML page that matches the following:
