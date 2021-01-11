@@ -1,10 +1,23 @@
 # 1.1 - HTML Workshop
 
-Before you dive into the workshop, be sure to have read the provided HTML-reference doc.
+## 🦉 Lecture
 
-When creating HTML files, be sure to use proper formating. Here is a basic template.
+Throughout the bootcamp, you will always be provided with the slides prior to the day's lecture/workshop and are welcome to go over the content _after doing the pre-lecture work._ Today's lecture/workshop doesn't have any pre-lecture work to do.
 
-_Don't worry about styling and alignment at this point, we'll worry about that when we add CSS._
+- Google Slides: https://docs.google.com/presentation/d/1DAsVWW0bnNpg_2doituIy3t1Eaog5Bx6K2F5CGpHSrU/edit?usp=sharing
+- PDF: [m1_d1.pdf](__lecture/m1_d1.pdf)
+
+_If you want to view pdf files directly in VS Code, install the following extension: [vscode-pdf](https://marketplace.visualstudio.com/items?itemName=tomoki1207.pdf)._
+
+---
+
+## ⚡ Exercises
+
+Before you dive into the workshop, be sure to have read the provided [HTML-reference doc](__1-lecture/HTML-reference.md).
+
+When creating HTML files, be sure to use proper formatting. Here is a basic template.
+
+_Don't worry about styling and alignment at this point, we'll get to that when we add CSS._
 
 ```html
 <!DOCTYPE html>
@@ -15,52 +28,64 @@ _Don't worry about styling and alignment at this point, we'll worry about that w
 </html>
 ```
 
-## Exercise 1
+### Exercise 1
 
 _Questions located in the exercise folder_
 
-## Exercise 2
+---
+
+### Exercise 2
 
 1. Open the provided `index.html` file in the browser.
 2. Modify it to match the following image
 
-![exercise-2 goal](./__lecture/assets/ex-2-goal.png)
+![exercise-2 goal](./__1-lecture/assets/ex-2-goal.png)
 
-## Exercise 3
+---
+
+### Exercise 3
 
 Write an HTML page that matches the screenshot provided.
 
-![exercise-3 goal](./__lecture/assets/ex-3-goal.png)
+![exercise-3 goal](./__1-lecture/assets/ex-3-goal.png)
 
-## Exercise 4
+---
+
+### Exercise 4
 
 Write an HTML page that matches the following:
 
-![exercise-4 goal](./__lecture/assets/ex-4-goal.png)
+![exercise-4 goal](./__1-lecture/assets/ex-4-goal.png)
 
 If you did not find the previous exercise easy, start from scratch.
 
-## Exercise 5
+---
+
+### Exercise 5
 
 Update the HTML code to match the following:
 
-![exercise-5 goal](./__lecture/assets/ex-5-goal.png)
+![exercise-5 goal](./__1-lecture/assets/ex-5-goal.png)
 
 TIOBE Index link: https://www.tiobe.com/tiobe-index/
 
 Use `target="_blank"` on the `<a>` tag to open the link in a new tab
 
-## Exercise 6
+---
+
+### Exercise 6
 
 Fix the HTML code so it renders correctly:
 
-![exercise-6 goal](./__lecture/assets/ex-6-goal.png)
+![exercise-6 goal](./__1-lecture/assets/ex-6-goal.png)
 
-## Exercise 7
+---
+
+### Exercise 7
 
 Create an HTML file so it matches the screenshot provided:
 
-![exercise-7 goal](./__lecture/assets/ex-7-goal.png)
+![exercise-7 goal](./__1-lecture/assets/ex-7-goal.png)
 
 Hint: use the `<table>` element
 
@@ -79,13 +104,13 @@ Links
 
 ---
 
-## Exercise 8
+### Exercise 8
 
 Update the HTML file so it matches the provided image:
 
-![exercise-8 goal](./__lecture/assets/ex-8-goal.png)
+![exercise-8 goal](./__1-lecture/assets/ex-8-goal.png)
 
-### Hints
+#### Hints
 
 - Use the `<form>` element
 - Use the `<label>` tag to make the text describing inputs clickable
