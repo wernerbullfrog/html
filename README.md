@@ -30,7 +30,7 @@ _Don't worry about styling and alignment at this point, we'll get to that when w
 
 ### Exercise 1
 
-_Questions located in the exercise folder_
+_Questions located in the `__2-workshop/exercise-1` folder_
 
 ---
 
