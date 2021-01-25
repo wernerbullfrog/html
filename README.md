@@ -4,8 +4,7 @@
 
 Throughout the bootcamp, you will always be provided with the slides prior to the day's lecture/workshop and are welcome to go over the content _after doing the pre-lecture work._ Today's lecture/workshop doesn't have any pre-lecture work to do.
 
-- Google Slides: https://docs.google.com/presentation/d/1DAsVWW0bnNpg_2doituIy3t1Eaog5Bx6K2F5CGpHSrU/edit?usp=sharing
-- PDF: [m1_d1.pdf](__lecture/m1_d1.pdf)
+[m1_d1.pdf](__lecture/m1_d1.pdf)
 
 _If you want to view pdf files directly in VS Code, install the following extension: [vscode-pdf](https://marketplace.visualstudio.com/items?itemName=tomoki1207.pdf)._
 
