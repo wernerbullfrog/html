@@ -4,9 +4,9 @@
 
 Type true/false in the provided [ ].
 
-a) [ ] `<div><span>hello</div></span>`
+a) [false] `<div><span>hello</div></span>`
 
-b) [ ]
+b) [false]
 
 ```html
 <ul>
@@ -14,7 +14,7 @@ b) [ ]
 </ol>
 ```
 
-c) [ ] `<ul></ul><img/><ol><li>one</li></ol>`
+c) [True] `<ul></ul><img/><ol><li>one</li></ol>`
 
 ## Q2 - What is a screenreader and why should we care about them?
 
@@ -27,11 +27,12 @@ a) You want to create a webpage with the photos from your latest vacation
 b) You want to create a website that lists all the art gallery websites in your city and links to their website.
 
 c) You want to sell designer hats. You need to receive orders from the user.
+<form>
 
 ## Q4 - Can a `button` be a child of a `button`? Explain your reasoning
 
 ## Q5 - What is the most generic tag you can use?
-
+<div></div>
 ## Q6 - What do the following achronyms stand for?
 
 a) `a`
